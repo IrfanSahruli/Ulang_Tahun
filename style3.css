@@ -1,0 +1,29 @@
+body {
+  background-color: #00bbf9;
+}
+
+.content {
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+
+.p {
+  margin: 10px;
+}
+
+.gambar1 {
+  margin-top: 50px;
+  margin-left: 50px;
+  position: relative;
+  width: 250px;
+  height: 150px;
+}
+
+.gambar2 {
+  margin-left: 50px;
+  position: relative;
+  width: 250px;
+  height: 250px;
+}
